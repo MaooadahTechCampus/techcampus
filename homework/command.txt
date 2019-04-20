@@ -1,0 +1,11 @@
+lec 2 dev ops:
+creat new username and email:
+git config --global user.name/email
+
+check the user name and email:
+git config user.name/email 
+
+
+
+git init : create new repistory in 
+git status: status of the folder.
