@@ -9,3 +9,5 @@ git config user.name/email
 
 git init : create new repistory in 
 git status: status of the folder.
+
+git commit -m"commnet ": adding comment
